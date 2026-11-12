@@ -1,4 +1,4 @@
-# Hi, I'm Iurii Savelev
+# Hi, I'm Iurii SA
 
 Application Support Engineer · BI / Data Developer · .NET Software Developer — based in Palm Harbor, Florida, working US-remote.
 

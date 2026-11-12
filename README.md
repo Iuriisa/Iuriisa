@@ -8,7 +8,7 @@ Currently looking for a US-remote role in Application Support, BI / Data, or .NE
 
 - **Application support & data platforms** — SQL / T-SQL, SSRS / SSIS, Power BI, Azure SQL
 - **Software development** — C# / .NET in-house business applications, REST APIs, system integrations
-- **Founder of PsoriCare.ai** — a psoriasis health-tracking app, built on Base44
+- **Founder of PsoriCare.ai** — a skin care health-tracking app
 - **SAVDEV Software Studio** — independent software studio
 
 ## Highlights
